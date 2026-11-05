@@ -1,8 +1,6 @@
 # GenAI & LLM Lab
 
-A hands-on learning repository for Generative AI,
-
-Large Language Models, and AI Model Risk.
+A hands-on learning repository for Generative AI, Large Language Models, and AI Model Risk.
 
 ## Objectives
 
@@ -23,7 +21,7 @@ This repository documents my practical experiments with:
 
 1. NLP and LLM Fundamentals
 
-- . Embeddings and Semantic Search
+2. Embeddings and Semantic Search
 
 3. Vector Databases
 
@@ -43,12 +41,6 @@ This repository documents my practical experiments with:
 
 ## Background
 
-My professional background is in model validation,
+My professional background is in model validation, model risk management, and model governance.
 
-model risk management, and model governance.
-
-The goal of this repository is to extend those principles
-
-to modern GenAI and LLM applications through hands-on
-
-implementation and experimentation.
+The goal of this repository is to extend those principles to modern GenAI and LLM applications through hands-on implementation and experimentation.
