@@ -1,0 +1,11 @@
+Independent model validation provides an objective assessment of model performance and risk.
+
+Model governance defines ownership, approval authority, monitoring requirements, and escalation procedures.
+
+A validation should evaluate conceptual soundness, data quality, model performance, implementation, and ongoing monitoring.
+
+RAG combines information retrieval with text generation to improve the factual grounding of model responses.
+
+LLM hallucination occurs when a model generates a statement that is not supported by the available source information.
+
+Prompt robustness testing evaluates whether a model provides consistent responses when a question is phrased in different ways.
